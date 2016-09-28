@@ -1,0 +1,171 @@
+﻿BalloonTour.swf Movie Report
+-----------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1233    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-07-30T17:33:41-03:00</xmp:CreateDate> <xmp:MetadataDate>2012-04-16T17:52:07-03:00</xmp:MetadataDate> <xmp:ModifyDate>2012-04-16T17:52:07-03:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:51CBE205FB87E1119DE1F6400E841548</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:51CBE205FB87E1119DE1F6400E841548</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:BAD830D2EBBAE0119567D71888A54826</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:7D56586FF587E1119DE1F6400E841548</stRef:instanceID> <stRef:documentID>xmp.did:BAD830D2EBBAE0119567D71888A54826</stRef:documentID> <stRef:originalDocumentID>xmp.did:BAD830D2EBBAE0119567D71888A54826</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        3679536        3679536    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 83934
+
+Symbol                                  Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------------------    -----------    ----------    ------------------
+AirPlane                                          0             0                     0
+BodyAirPlane                                     37             0                     0
+Asa                                              41             0                     0
+Area5                                             0             0                     0
+BackButton                                        0             0                     0
+BalaoMainMenu                                     0             0                     0
+Balloon                                           0             0                     0
+Top                                               0             0                     0
+Bot                                               0             0                     0
+Mid                                              35             0                     0
+Balloon2                                       1605             0                     0
+BlackScreen                                       0             0                     0
+BlowButton                                        0             0                     0
+Body                                             37             0                     0
+Button                                            0             0                     0
+Button_disabledSkin                             162             0                     0
+Button_downSkin                                 341             0                     0
+Button_emphasizedSkin                           175             0                     0
+Button_overSkin                                 317             0                     0
+Button_selectedDisabledSkin                     261             0                     0
+Button_selectedDownSkin                         258             0                     0
+Button_selectedOverSkin                         259             0                     0
+Button_upSkin                                   351             0                     0
+focusRectSkin                                   122             0                     0
+Component_avatar                                 40             0                     0
+Camada3                                           0             0                     0
+Camada4                                           0             0                     0
+CamadaAir                                        41             0                     0
+CamadaPredios                                    43             0                     0
+Button_selectedUpSkin                             0             0                     0
+NumericStepperDownArrow_disabledSkin            109             0                     0
+NumericStepperDownArrow_icon                      0             0                     0
+NumericStepperDownArrow_downSkin                130             0                     0
+arrowIcon                                        51             0                     0
+NumericStepperDownArrow_overSkin                134             0                     0
+NumericStepperDownArrow_upSkin                  133             0                     0
+NumericStepperUpArrow_disabledSkin              151             0                     0
+NumericStepperUpArrow_icon                        0             0                     0
+NumericStepperUpArrow_downSkin                  123             0                     0
+NumericStepperUpArrow_overSkin                  130             0                     0
+NumericStepperUpArrow_upSkin                    129             0                     0
+ProgressBar_barSkin                             112             0                     0
+ProgressBar_indeterminateSkin                    84             0                     0
+ProgressBar_trackSkin                           122             0                     0
+TextInput_disabledSkin                          123             0                     0
+TextInput_upSkin                                125             0                     0
+eraser                                            0             0                     0
+ExitButton                                        0             0                     0
+Page                                              0             0                     0
+Page                                              0             0                     0
+Page copy                                         0             0                     0
+Floor                                             0             0                     0
+Game                                            140             0                     0
+PressButton                                       0             0                     0
+GameControlMenu                                   0             0                     0
+Head                                             38             0                     0
+Helicopter                                        0             0                     0
+Label                                             0             0                     0
+LifeIndicators                                    0             0                     0
+MainMenu                                          0             0                     0
+StartGameButton                                   0             0                     0
+ResumeGame                                        0             0                     0
+QuitButton                                        0             0                     0
+RecordsButton                                     0             0                     0
+Moutains                                       1301             0                     0
+NoButton                                          0             0                     0
+NumericStepper                                    0             0                     0
+TextInput                                         0             0                     0
+Obstaculo                                         0             0                     0
+PauseButton                                       0             0                     0
+PauseMenu                                         0             0                     0
+PlayButton                                        0             0                     0
+PontoDeContato                                    0             0                     0
+Predio_cod1                                       0             0                     0
+Predio_cod2                                       0             0                     0
+Predio_cod3                                       0             0                     0
+Predio_cod4                                       0             0                     0
+Predio_cod5                                       0             0                     0
+Predio_cod6                                       0             0                     0
+Predio_cod7                                       0             0                     0
+Predio_cod8                                       0             0                     0
+Predios                                           0             0                     0
+ProgressBar                                       0             0                     0
+Records                                           0           122                     0
+ScoreWindow                                       0           179                     0
+SoundMenu                                         0             0                     0
+YesButton                                         0             0                     0
+Symbol 102                                        0             0                     0
+TryAgainMenu                                      0           175                     0
+UpButton                                          0             0                     0
+fl.core.ComponentShim                             0             0                     0
+
+Font Name            Bytes         Characters
+-----------------    ----------    ----------
+TimesNewRomanPSMT          6883     ?ATaginry 
+ArialMT                    6837     NPSacelmory 
+
+ActionScript Bytes    Location
+------------------    --------
+             83934    Scene 1:Frame 1
+
+Bitmap                   Compressed    Original      Compression
+---------------------    ----------    ----------    -----------
+up.png                         1438         29876    Lossless
+tryagain.png                  19440        510252    JPEG Quality=80
+yes.png                        1124         19488    Lossless
+no.png                         1022         19488    Lossless
+enablesound.png                3622         52624    Lossless
+new record.png                18720        782920    Lossless
+scoretable.png                10146        725088    Lossless
+predio2.0.png                  2908        148248    Lossless
+predio3.png                   14304        239784    JPEG Quality=80
+predio1.1.png                 12701        111384    JPEG Quality=80
+predio3.png copy              14297        400596    Lossless
+pedio0.1.png                   3725        248444    Lossless
+predio4.png copy               4434        174064    Lossless
+paused.png                    49997        448164    JPEG Quality=80
+play.png                       1636         30576    Lossless
+exit.png                       1393         22320    Lossless
+pause.png                      1952         27144    Lossless
+telainicial2.1.png            49748       2457600    JPEG Quality=80
+startgame.png copy 2           6072         58032    Lossless
+resumegame.png copy            3894         65224    Lossless
+quit.png copy 2                1477         24800    Lossless
+records.png copy               3461         39936    Lossless
+helicoptero1.png copy          1402         16920    Lossless
+helicoptero2.png copy          1469         16920    Lossless
+helicoptero3.png copy          1459         16920    Lossless
+ceu.png                        2775       2457600    Lossless
+fundo2.1.2.png                49018       2246400    Lossless
+fundo2.2.1.png                40874       2246400    Lossless
+blow.png                       2502         25056    Lossless
+press.png copy                 1980         27144    Lossless
+telaescura.png                 2314       2457600    Lossless
+balão.iago.4.2.2.png          3914         31680    JPEG Quality=80
+balão.inicio.png             25048        549044    JPEG Quality=80
+avião1.png copy 2             2950         53756    Lossless
+avião2.png copy 2             3013         53756    Lossless
+avião3.png copy               2925         53756    Lossless
+avião4.png copy               3006         53756    Lossless
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name    Bytes         Format
+----------    ----------    ------
+Music2           1317295    11KHz Mono 16 kbps MP3
+Music1           1876247    11KHz Mono 16 kbps MP3
+
+
+
+
